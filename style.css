@@ -1,0 +1,94 @@
+#Mn{
+    margin-top: 20px;
+    margin-right: 170px;
+}
+#Np{
+    margin-right: 170px;
+    margin-top: 20px;
+}
+form{
+    width: 400px;
+    height: 620px;
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin: auto;
+    margin-top: 50px;
+}
+#fn{
+    height: 25px;
+    width: 180px;
+    text-align: center;
+}
+#sn{
+    height: 25px;
+    width: 180px;
+    text-align: center;
+    margin-left: 10px;
+}
+#Mn{
+    height: 25px;
+    width: 380px;
+    text-align: center;
+}
+#Np{
+    height: 25px;
+    width: 380px;
+    text-align: center;
+}
+#aaa{
+    height: 25px;
+    width: 113px;
+    text-align: center;
+}
+#bbb{
+    height: 25px;
+    width: 113px;
+    text-align: center;
+    margin-left: 20px;
+}
+#ccc{
+    height: 25px;
+    width: 113px;
+    text-align: center;
+    margin-left: 20px;
+}
+#male{
+    margin-left: 100px;
+}
+#Custom{
+    margin-left: 90px;
+}
+#vi,#ck,#y,#vicky{
+    color: rgb(28, 10, 194);
+}
+#vi:hover{
+    text-decoration: underline;
+}
+#ck:hover{
+    text-decoration: underline;
+}
+#y:hover{
+    text-decoration: underline;
+}
+#vicky:hover{
+    text-decoration: underline;
+}
+#su{
+    background-color: rgb(36, 213, 83);
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 160px;
+    height: 25px;
+    color: white;
+    margin-top: 5px;
+}
+h2{
+    height: 15px;
+}
+h4{
+    height: 10px;
+}
+body{
+    background-color: rgba(32, 79, 154, 0.1);
+}
